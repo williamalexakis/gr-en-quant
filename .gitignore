@@ -1,0 +1,16 @@
+models/
+models_3b/
+models_1b/
+data/
+logits/
+venv/
+*.gguf
+*.bin
+*.dat
+*.pyc
+*.kld
+.DS_Store
+.AppleDouble
+.LSOverride
+venv/
+__pycache__/
